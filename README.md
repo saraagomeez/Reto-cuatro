@@ -1,6 +1,7 @@
 # Reto-cuatro
 ## Ejercicio de clase
 **Punto uno**
+
 ***Class shape***
 ```
 class Shape:
@@ -42,7 +43,9 @@ print("Rectangle perimeter is: ", shape1.compute_perimeter())
 print("\nSquare area is: ", shape2.compute_area())
 print("Square perimeter is ", shape2.compute_perimeter())
 ```
+
 ***Class shape - part 2***
+
 ```
 import math
 class Point:
