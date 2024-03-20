@@ -1,6 +1,5 @@
 # Reto-cuatro
 ## Ejercicio de clase
-**Punto uno**
 
 ***Class shape***
 ```
@@ -363,4 +362,4 @@ print("Square inner angles: ", square.compute_inner_angles())
 print("\n")
 ```
 
-**Punto dos**
+## Restaurant revisted
